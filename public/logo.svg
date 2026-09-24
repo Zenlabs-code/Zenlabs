@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60" fill="none">
+  <!-- ZenLabs Modern Clean Geometric Emblem & Wordmark -->
+  <g transform="translate(10, 8)">
+    <rect width="44" height="44" rx="12" fill="#2E2A72"/>
+    <path d="M12 16H32L14 30H32" stroke="#38BDF8" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="32" cy="16" r="3" fill="#FFFFFF"/>
+  </g>
+  <text x="66" y="38" font-family="'League Spartan', 'Montserrat', sans-serif" font-weight="800" font-size="28" fill="#1E1B4B" letter-spacing="-0.5px">Zen<tspan fill="#0284C7">Labs</tspan></text>
+</svg>
